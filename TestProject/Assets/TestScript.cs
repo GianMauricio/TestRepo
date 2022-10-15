@@ -20,4 +20,9 @@ public class TestScript : MonoBehaviour
     {
         //This function does nothing but it will fight whatever Kyle adds
     }
+    
+    void sus()
+    {
+
+    }
 }
